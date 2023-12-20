@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014742068627",
+    "project_id": "tanyakokii-f43ef",
+    "storage_bucket": "tanyakokii-f43ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014742068627:android:84260e1331d5dee1640c66",
+        "android_client_info": {
+          "package_name": "com.example.tanyakokii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDonY9PVW1XYstmyAMubd0q8Ka16BAZSJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
